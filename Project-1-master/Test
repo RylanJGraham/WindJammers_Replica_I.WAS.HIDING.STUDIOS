@@ -1,0 +1,7 @@
+#include <iostream>
+include namespace std;
+
+int main(){
+    int var3 = 4;
+    cout << var3 << endl;
+}
